@@ -1,5 +1,3 @@
-# trevipay-api
-
 # sample api using:
 
     - prisma (using sqlite but can easily moved to other supported db)
